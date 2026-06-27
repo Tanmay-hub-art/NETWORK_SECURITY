@@ -1,7 +1,7 @@
 # 🛡️ Network Security ML Project 🛡️
 
 ## 📋 Overview
-This project is a complete end-to-end machine learning pipeline for network security analysis built during Krish Naik's Machine Learning Bootcamp. It uses advanced ML techniques to detect and classify network security threats from network data.
+This project is a complete end-to-end machine learning pipeline for network security analysis. It uses advanced ML techniques to detect and classify network security threats from network data.
 
 ## 🛠️ Tech Stack
 - **🐍 Programming Language**: Python 3.10
@@ -146,4 +146,4 @@ The project integrates with MLflow and DagsHub for experiment tracking:
 8. 🚀 The model is served via a FastAPI application
 
 ## 👨‍💻 Contribution
-Created by Viraj Gavade during Krish Naik's Machine Learning Bootcamp.
+Created and maintained by the project owner.
