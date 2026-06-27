@@ -2,3 +2,5 @@
 logs
 Artifacts
 __pycache__
+.venv/
+*.pyc
